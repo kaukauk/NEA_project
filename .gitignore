@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.vs/
+.DS_Store
+wav_files/*.wav
+!wav_files/bonk_sound.wav
